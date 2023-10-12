@@ -80,22 +80,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/miftahganzz/count.svg?"  />
-</div>
-
-###
-
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/miftahganzz/miftahganzz/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31pfhnl5uvmljafo3b6kjh6x2s7q">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=10&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
