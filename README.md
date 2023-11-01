@@ -78,4 +78,14 @@
   <img src="https://streak-stats.demolab.com?user=miftahganzz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+<p align="center" class="d-flex justify-content-center align-items-center">
+
+  <a href="https://github.com/miftahganzz">
+
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=miftahganzz&layout=compact&langs_count=8&theme=omni"/>
+
+  </a>
+
+</p>
+
 ###
