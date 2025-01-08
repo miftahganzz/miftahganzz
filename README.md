@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Miftah from Indonesia<br><br>- 🔭 I’m working as student<br>- 📚 I'm currently learning PHP<br>- ⚡ In my free time I learn new things</p>
+<p align="left">I'm Miftah from Indonesia<br><br>- 🔭 I’m working as student<br>- 📚 I'm currently learning Javascript and PHP<br>- ⚡ In my free time I learn new things</p>
 
 ###
 
