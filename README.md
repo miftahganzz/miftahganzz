@@ -12,13 +12,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Javascript<br>⚡ In my free time I learn new things</p>
-
-###
-
-<h3 align="left">🎶 Last play song:</h3>
-
-###
+<img src="https://github-widgetbox.vercel.app/api/profile?username=miftahganzz&data=followers,repositories,stars,commits&theme=darkmode">
 
 <div align="left">
   <a href="https://open.spotify.com/user/31dwep3ephkspjviwain7sf5uzfy">
