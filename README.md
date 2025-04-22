@@ -6,8 +6,6 @@
   <img src="https://github-widgetbox.vercel.app/api/profile?username=miftahganzz&data=followers,repositories,stars,commits&theme=darkmode" alt="Profile Stats"/>
 </div>
 
-###
-
 <div align="center">
   <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?tools=mysql,mongodb&theme=darkmode" alt="Tools"/>
   <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?frameworks=react,nextjs&theme=darkmode" alt="Frameworks"/>
