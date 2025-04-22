@@ -1,14 +1,8 @@
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/miftahganzz/count.svg?"  />
-</div>
+<img src="https://raw.githubusercontent.com/miftahganzz/miftahganzz/refs/heads/main/assets/headers.png">
 
 ###
 
-###
-
-<p align="left">My name is Miftah and I'm a junior developer, from Indonesia</p>
+<!--<div><b>Hi I'am Miftah</b> -I'am a Junior Developer, who is interested and has started to learn coding since 2022.</div>-->
 
 ###
 
