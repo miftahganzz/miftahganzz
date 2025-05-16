@@ -2,8 +2,11 @@ name: generate pacman game
 
 on:
   schedule:
-    - cron: "0 0 * * *"  
+    - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   generate:
@@ -13,35 +16,15 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-
       - name: Generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
 
-      - name: Push to output branch (with retry logic)
-        run: |
-          echo "✅ Setting up Git config"
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git fetch origin output || echo "output branch belum ada"
-
-          echo "📁 Copy hasil generate ke direktori root"
-          cp -r dist/* .
-
-          echo "📦 Commit dan push ke branch output"
-          git checkout -B output
-          git add .
-          git commit -m "Update pacman contribution graph - $(date -u +'%Y-%m-%d %H:%M:%S UTC')" || echo "Nothing to commit"
-          
-          for i in 1 2 3; do
-            git push origin output --force && break
-            echo "❌ Push gagal, coba ulang ($i)..."
-            sleep 5
-          done
+      - name: Push pacman-contribution-graph.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
