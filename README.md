@@ -19,7 +19,7 @@
 
 <div align="center">
   <img src="https://spotify-badge-readme.vercel.app/api/now-playing.svg" alt="Now Playing"/>
-  <img src="https://spotify-lyrics-github.vercel.app/api/spotify/lyrics.svg?theme=dark&cardTheme=both" alt="Lyrics"/>
+  <img src="https://spotify-lyrics-github.vercel.app/api/spotify/lyrics.svg?theme=dark&cardTheme=lyrics" alt="Lyrics"/>
 </div>
 
 <div align="center">
