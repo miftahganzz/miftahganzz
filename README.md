@@ -18,15 +18,19 @@
 ###
 
 <div align="center">
-  <!--<img src="https://spotify-badge-readme.vercel.app/api/now-playing.svg" alt="Now Playing"/>-->
-  <img src="https://spotify-lyrics-github.vercel.app/api/spotify/lyrics.svg?theme=dark&cardTheme=both" alt="Lyrics"/>
+  <div style="display:inline-block; vertical-align:top; margin-right:20px;">
+    <a href="https://open.spotify.com/user/31dwep3ephkspjviwain7sf5uzfy">
+      <img width="49%" src="https://spotify-lyrics-github.vercel.app/api/spotify/lyrics.svg?theme=dark&cardTheme=lyrics" alt="Lyrics"/><br/>
+    </a>
+  </div>
+  
+  <div style="display:inline-block; vertical-align:top;">
+    <a href="https://open.spotify.com/user/31dwep3ephkspjviwain7sf5uzfy">
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dwep3ephkspjviwain7sf5uzfy&count=5&unique=true" alt="Spotify Recently Played"/>
+    </a>
+  </div>
 </div>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31dwep3ephkspjviwain7sf5uzfy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dwep3ephkspjviwain7sf5uzfy&count=5&unique=true" alt="Spotify Recently Played"/>
-  </a>
-</div>
 
 ###
 
