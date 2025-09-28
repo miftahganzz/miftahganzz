@@ -20,7 +20,8 @@
 <div align="center">
   <div style="display:inline-block; vertical-align:top; margin-right:20px;">
     <a href="https://open.spotify.com/user/31dwep3ephkspjviwain7sf5uzfy">
-      <img width="49%" src="https://spotify-lyrics-github.vercel.app/api/spotify/lyrics.svg?theme=dark&cardTheme=lyrics&t=1758509041513" alt="Lyrics"/><br/>
+      <!--<img width="49%" src="https://spotify-lyrics-github.vercel.app/api/spotify/lyrics.svg?theme=dark&cardTheme=lyrics&t=1758509041513" alt="Lyrics"/><br/>-->
+      <img width="49%" src="https://v0-remix-of-duplicate-of-spotify-l.vercel.app/api/spotify/lyrics.svg?user=miftahganzz&theme=dark&cardTheme=both" alt="Lyrics"/><br/>
     </a>
   </div>
   
