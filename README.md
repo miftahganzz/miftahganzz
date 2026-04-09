@@ -17,20 +17,8 @@
 
 ###
 
-<div align="center">
-  <div style="display:inline-block; vertical-align:top; margin-right:20px;">
-    <a href="https://open.spotify.com/user/31dwep3ephkspjviwain7sf5uzfy">
-      <!--<img width="49%" src="https://spotify-lyrics-github.vercel.app/api/spotify/lyrics.svg?theme=dark&cardTheme=lyrics&t=1758509041513" alt="Lyrics"/><br/>-->
-      <img width="49%" src="https://spotify-lyrics-github.vercel.app/api/spotify/lyrics.svg?user=miftahganzz&theme=dark&cardTheme=both" alt="Lyrics"/><br/>
-    </a>
-  </div>
-  
-  <div style="display:inline-block; vertical-align:top;">
-    <a href="https://open.spotify.com/user/31dwep3ephkspjviwain7sf5uzfy">
-      <img src="https://spotify-recently-played-readme.vercel.app/api?user=31benclgl7is4gjju4wolabteirm&count=5&unique=true" alt="Spotify Recently Played"/>
-    </a>
-  </div>
-</div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 ###
