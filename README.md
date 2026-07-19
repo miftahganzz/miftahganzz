@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=miftahganzz&data=followers,repositories,stars,commits&theme=darkmode" alt="Profile Stats"/>
+  <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=miftahganzz&data=followers,repositories,stars,commits&theme=darkmode" alt="Profile Stats"/>
 </div>
 
 <div align="center">
@@ -13,6 +13,7 @@
 
 <div align="center">
   <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,go,bash,xml,json,yaml,powershell,markdown&theme=darkmode" alt="Languages"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=miftahganzz&theme=darcula&hide_border=true&border_radius=25&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=500&card_height=275" alt="Streak Stats"/>
 </div>
 
 ###
@@ -106,13 +107,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
  Last Updated on 19/07/2026 00:07:20 UTC
 <!--END_SECTION:waka-->
 
-
 ###
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=miftahganzz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" alt="Top Languages"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=miftahganzz&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" alt="Streak Stats"/>
-</div>
 
 ###
 
