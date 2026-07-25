@@ -19,15 +19,15 @@
 ###
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-456%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-468%20hrs%2024%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 539.9 kB Used in GitHub's Storage 
+> 📦 539.8 kB Used in GitHub's Storage 
  > 
-> 🏆 7,104 Contributions in the Year 2026
+> 🏆 7,107 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -38,21 +38,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4032 commits        █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
-🌆 Daytime                5169 commits        ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
+🌞 Morning                4032 commits        █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
+🌆 Daytime                5169 commits        ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
 🌃 Evening                5647 commits        ███████░░░░░░░░░░░░░░░░░░   27.85 % 
-🌙 Night                  5426 commits        ███████░░░░░░░░░░░░░░░░░░   26.76 % 
+🌙 Night                  5430 commits        ███████░░░░░░░░░░░░░░░░░░   26.78 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   2943 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+Monday                   2943 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
 Tuesday                  2944 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
 Wednesday                2832 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
-Thursday                 2785 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+Thursday                 2785 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
 Friday                   2764 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
 Saturday                 3011 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-Sunday                   2995 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+Sunday                   2999 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
 ```
 
 
@@ -62,29 +62,29 @@ Sunday                   2995 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    31 hrs 18 mins      ██████████████░░░░░░░░░░░   56.48 % 
-TypeScript               13 hrs 8 mins       ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
-Swift                    6 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-JavaScript               2 hrs 54 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-Markdown                 34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Other                    34 hrs 58 mins      ████████████████░░░░░░░░░   65.04 % 
+TypeScript               13 hrs 21 mins      ██████░░░░░░░░░░░░░░░░░░░   24.83 % 
+JavaScript               2 hrs 54 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+Swift                    2 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🔥 Editors: 
-Chrome                   36 hrs 19 mins      ████████████████░░░░░░░░░   65.54 % 
-Antigravity CLI          14 hrs 4 mins       ██████░░░░░░░░░░░░░░░░░░░   25.38 % 
-Antigravity              2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-VS Code                  57 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-Antigravity Desktop      55 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+Chrome                   38 hrs 26 mins      ██████████████████░░░░░░░   71.51 % 
+Antigravity CLI          11 hrs 10 mins      █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
+Antigravity              2 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+Terminal                 45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+VS Code                  43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 
 🐱‍💻 Projects: 
-movnix                   35 hrs 55 mins      ████████████████░░░░░░░░░   64.82 % 
-amplify-js               7 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-animix                   2 hrs 47 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-miftahganzz              2 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-movnix-db                1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+movnix                   30 hrs 34 mins      ██████████████░░░░░░░░░░░   56.87 % 
+chevron                  7 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+amplify-js               7 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+animix                   2 hrs 47 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+miftahganzz              2 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
 
 💻 Operating System: 
-Mac                      55 hrs 11 mins      █████████████████████████   99.57 % 
-Windows                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Mac                      53 hrs 31 mins      █████████████████████████   99.56 % 
+Windows                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -104,7 +104,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/miftahganzz/miftahganzz/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 17:16:20 UTC
+ Last Updated on 25/07/2026 19:28:10 UTC
 <!--END_SECTION:waka-->
 
 ###
