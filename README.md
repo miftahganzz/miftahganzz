@@ -19,7 +19,9 @@
 ###
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-494%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-243%20hrs%2053%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-225%20hrs%2033%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue?style=flat)
 
@@ -27,7 +29,7 @@
 
 > 📦 539.9 kB Used in GitHub's Storage 
  > 
-> 🏆 7,155 Contributions in the Year 2026
+> 🏆 7,157 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -40,14 +42,14 @@
 ```text
 🌞 Morning                4040 commits        █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
 🌆 Daytime                5179 commits        ██████░░░░░░░░░░░░░░░░░░░   25.48 % 
-🌃 Evening                5659 commits        ███████░░░░░░░░░░░░░░░░░░   27.84 % 
-🌙 Night                  5446 commits        ███████░░░░░░░░░░░░░░░░░░   26.80 % 
+🌃 Evening                5661 commits        ███████░░░░░░░░░░░░░░░░░░   27.85 % 
+🌙 Night                  5446 commits        ███████░░░░░░░░░░░░░░░░░░   26.79 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   2963 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-Tuesday                  2944 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+Monday                   2965 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+Tuesday                  2944 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
 Wednesday                2832 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
 Thursday                 2785 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
 Friday                   2764 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
@@ -87,6 +89,32 @@ Mac                      60 hrs 25 mins      ███████████�
 Windows                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 22 hrs 23 mins (36.9%)
+
+✍️ 4,795 lines written by AI, 114 lines written by hand (97.68% AI-written)
+
+🔤 128,699 Input Tokens, 8,353 Output Tokens
+
+💵 $0.51 Estimated AI Cost This Week
+
+🧠 17 AI Sessions, 775 AI Prompts
+
+Gemini                   3,394 lines         ██████████████░░░░░░░░░░░   57.37 % 
+Antigravity-Desktop      2,364 lines         ██████████░░░░░░░░░░░░░░░   39.96 % 
+Sonnet                   126 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Deepseek                 30 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Opus                     2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 97.68% of written lines came from AI
+📝 Concise Prompter — average 356 characters per prompt
+🔁 Iterative Prompter — average 46 prompts per session
+🚀 High AI Trust — 13.43% of changed lines were hand-edited
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -104,7 +132,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/miftahganzz/miftahganzz/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 15:04:45 UTC
+ Last Updated on 27/07/2026 17:13:25 UTC
 <!--END_SECTION:waka-->
 
 ###
