@@ -19,9 +19,9 @@
 ###
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-314%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-320%20hrs%2020%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-299%20hrs%2045%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-306%20hrs%2021%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -43,7 +43,7 @@
 🌞 Morning                4187 commits        █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
 🌆 Daytime                5348 commits        ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
 🌃 Evening                5842 commits        ███████░░░░░░░░░░░░░░░░░░   27.80 % 
-🌙 Night                  5638 commits        ███████░░░░░░░░░░░░░░░░░░   26.83 % 
+🌙 Night                  5640 commits        ███████░░░░░░░░░░░░░░░░░░   26.84 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
@@ -54,7 +54,7 @@ Wednesday                2924 commits        ███░░░░░░░░�
 Thursday                 2915 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
 Friday                   2856 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
 Saturday                 3132 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-Sunday                   3107 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+Sunday                   3109 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
 ```
 
 
@@ -64,53 +64,53 @@ Sunday                   3107 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    55 hrs 50 mins      █████████████████░░░░░░░░   66.38 % 
-TypeScript               7 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-Dart                     7 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-JavaScript               5 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
-Markdown                 2 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+Other                    56 hrs 46 mins      ████████████████░░░░░░░░░   64.92 % 
+JavaScript               9 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+Dart                     7 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+TypeScript               6 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+Swift                    2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 
 🔥 Editors: 
-Chrome                   57 hrs              █████████████████░░░░░░░░   67.77 % 
-Antigravity CLI          16 hrs 28 mins      █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
-Antigravity Desktop      5 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
-Terminal                 3 hrs 44 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-VS Code                  54 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Chrome                   57 hrs 6 mins       ████████████████░░░░░░░░░   65.29 % 
+Antigravity CLI          18 hrs 57 mins      █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
+Terminal                 5 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+Antigravity Desktop      3 hrs 56 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+AdobePhotoshop2024       59 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 
 🐱‍💻 Projects: 
-movnix                   39 hrs 16 mins      ████████████░░░░░░░░░░░░░   46.68 % 
-FlashBuzziOS             7 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
-Orbit                    6 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
-miftah                   5 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-tiksave-web              5 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+movnix                   40 hrs 21 mins      ████████████░░░░░░░░░░░░░   46.15 % 
+tiktok-scraper           9 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+miftah                   9 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+tiksave-web              5 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+tiksave                  5 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
 
 💻 Operating System: 
-Mac                      78 hrs 32 mins      ███████████████████████░░   93.35 % 
-Windows                  5 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+Mac                      81 hrs 46 mins      ███████████████████████░░   93.51 % 
+Windows                  5 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 hrs 47 mins (34.23%)
+⏱ AI Coding Time: 32 hrs 16 mins (36.91%)
 
-✍️ 8,077 lines written by AI, 26 lines written by hand (99.68% AI-written)
+✍️ 7,726 lines written by AI, 26 lines written by hand (99.66% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 46 AI Sessions, 1152 AI Prompts
+🧠 48 AI Sessions, 1256 AI Prompts
 
-Gemini                   6,261 lines         ██████████████████░░░░░░░   73.33 % 
-Opus                     1,711 lines         █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
-Antigravity-Cli          566 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+Gemini                   5,978 lines         ██████████████████░░░░░░░   71.17 % 
+Opus                     1,856 lines         ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
+Antigravity-Cli          566 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.68% of written lines came from AI
-📄 Detailed Prompter — average 823 characters per prompt
-🔁 Iterative Prompter — average 25 prompts per session
-🚀 High AI Trust — 0.27% of changed lines were hand-edited
+🤖 AI-Driven — 99.66% of written lines came from AI
+📄 Detailed Prompter — average 799 characters per prompt
+🔁 Iterative Prompter — average 26 prompts per session
+🚀 High AI Trust — 0.28% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -130,7 +130,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/miftahganzz/miftahganzz/main/assets/bar_graph.png)
 
 
- Last Updated on 15/08/2026 17:34:50 UTC
+ Last Updated on 15/08/2026 18:47:37 UTC
 <!--END_SECTION:waka-->
 
 ###
