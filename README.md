@@ -19,9 +19,9 @@
 ###
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-336%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-337%20hrs%2021%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-326%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-333%20hrs%2045%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -37,84 +37,6 @@
  > 
 > 🔑 70 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                4258 commits        █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
-🌆 Daytime                5432 commits        ██████░░░░░░░░░░░░░░░░░░░   25.46 % 
-🌃 Evening                5927 commits        ███████░░░░░░░░░░░░░░░░░░   27.78 % 
-🌙 Night                  5720 commits        ███████░░░░░░░░░░░░░░░░░░   26.81 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   3077 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-Tuesday                  3104 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-Wednesday                2966 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-Thursday                 2961 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-Friday                   2902 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-Saturday                 3178 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Sunday                   3149 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-Other                    53 hrs 10 mins      ██████████████████░░░░░░░   70.21 % 
-JavaScript               11 hrs 32 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-Go                       5 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-TypeScript               3 hrs 55 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-Text                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-
-🔥 Editors: 
-Chrome                   52 hrs 42 mins      █████████████████░░░░░░░░   69.61 % 
-Antigravity CLI          11 hrs 39 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
-Terminal                 8 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-AdobePhotoshop2024       2 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
-VS Code                  49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-
-🐱‍💻 Projects: 
-movnix                   18 hrs 7 mins       ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
-tiktok-scraper           8 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-netflix-main             6 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-miftah                   6 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-Retrolens                5 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-
-💻 Operating System: 
-Mac                      73 hrs 57 mins      ████████████████████████░   97.66 % 
-Windows                  1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 27 hrs 9 mins (35.86%)
-
-✍️ 5,463 lines written by AI, 61 lines written by hand (98.9% AI-written)
-
-🔤 5,149 Input Tokens, 1,211 Output Tokens
-
-💵 $0.75 Estimated AI Cost This Week
-
-🧠 21 AI Sessions, 1202 AI Prompts
-
-Gemini                   5,618 lines         ████████████████████████░   94.28 % 
-Opus                     236 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-Sonnet                   81 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-Antigravity-Desktop      24 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 98.9% of written lines came from AI
-📄 Detailed Prompter — average 782 characters per prompt
-🔁 Iterative Prompter — average 57 prompts per session
-🚀 High AI Trust — 1.43% of changed lines were hand-edited
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -132,7 +54,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/miftahganzz/miftahganzz/main/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2026 17:35:18 UTC
+ Last Updated on 22/08/2026 18:48:53 UTC
 <!--END_SECTION:waka-->
 
 ###
