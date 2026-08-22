@@ -29,7 +29,7 @@
 
 > 📦 548.1 kB Used in GitHub's Storage 
  > 
-> 🏆 7,948 Contributions in the Year 2026
+> 🏆 7,951 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -37,6 +37,84 @@
  > 
 > 🔑 70 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                4258 commits        █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
+🌆 Daytime                5432 commits        ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
+🌃 Evening                5927 commits        ███████░░░░░░░░░░░░░░░░░░   27.77 % 
+🌙 Night                  5724 commits        ███████░░░░░░░░░░░░░░░░░░   26.82 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   3077 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+Tuesday                  3104 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+Wednesday                2966 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+Thursday                 2961 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+Friday                   2902 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+Saturday                 3178 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Sunday                   3153 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+Other                    60 hrs 17 mins      ███████████████████░░░░░░   77.94 % 
+JavaScript               7 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+Go                       5 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+TypeScript               2 hrs 50 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+C++                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+
+🔥 Editors: 
+Chrome                   53 hrs 41 mins      █████████████████░░░░░░░░   69.42 % 
+Antigravity CLI          11 hrs 12 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+Terminal                 10 hrs 7 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+AdobePhotoshop2024       1 hr 23 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+VS Code                  50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+
+🐱‍💻 Projects: 
+movnix                   19 hrs 32 mins      ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
+netflix-main             12 hrs 31 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+Retrolens                5 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+f5-tts                   5 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+Canopy v2.app            4 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+
+💻 Operating System: 
+Mac                      75 hrs 41 mins      ████████████████████████░   97.86 % 
+Windows                  1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 27 hrs 25 mins (35.45%)
+
+✍️ 4,459 lines written by AI, 61 lines written by hand (98.65% AI-written)
+
+🔤 5,149 Input Tokens, 1,211 Output Tokens
+
+💵 $0.75 Estimated AI Cost This Week
+
+🧠 20 AI Sessions, 1363 AI Prompts
+
+Gemini                   4,596 lines         ████████████████████████░   95.91 % 
+Opus                     91 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+Sonnet                   81 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Antigravity-Desktop      24 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 98.65% of written lines came from AI
+📄 Detailed Prompter — average 631 characters per prompt
+🔁 Iterative Prompter — average 68 prompts per session
+🚀 High AI Trust — 1.76% of changed lines were hand-edited
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -54,7 +132,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/miftahganzz/miftahganzz/main/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2026 18:48:53 UTC
+ Last Updated on 22/08/2026 19:35:50 UTC
 <!--END_SECTION:waka-->
 
 ###
